@@ -1,6 +1,8 @@
 # php-bypass-disable-functions
 Demo project how to bypass the disable_functions security control of PHP on Linux
 
+Tested on PHP 7.3.5, x86_64 Linux
+
 ## how to use
 
 ```
