@@ -1,7 +1,9 @@
 # php-bypass-disable-functions
-Demo project how to bypass the disable_functions security control of PHP on Linux
+Demo project how to bypass the disable_functions security control of PHP on Linux, where processes can inspect and even write their own memory via the special /proc/self/map file.
 
 Tested on PHP 7.3.5, x86_64 Linux
+
+See also: https://seclists.org/bugtraq/2019/May/52
 
 ## how to use
 
